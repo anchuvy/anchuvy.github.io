@@ -12,7 +12,7 @@ title: "09-26 노트 정리"
 
 #### Websites
 
-- (백준)[acmicpc.net]
-- (프로그래머스)[programmers.co.kr]
+- 백준 -> acmicpc.net
+- 프로그래머스 -> programmers.co.kr
 
 **emmet cheat sheet**
